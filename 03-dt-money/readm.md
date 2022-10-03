@@ -10,3 +10,7 @@ npm vite@lasted
 
 <!-- biblioteca de icones  -->
 npm i phosphor-react
+
+<!-- biblioteca de interface Radix UI -->
+https://www.radix-ui.com/
+npm install @radix-ui/react-dialog
