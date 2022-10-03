@@ -8,4 +8,5 @@ npm vite@lasted
 - npm i styled-components
 - npm i @types/styled-components -D
 
-<!--  -->
+<!-- biblioteca de icones  -->
+npm i phosphor-react
