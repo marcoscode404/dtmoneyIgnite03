@@ -14,3 +14,4 @@ npm i phosphor-react
 <!-- biblioteca de interface Radix UI -->
 https://www.radix-ui.com/
 npm install @radix-ui/react-dialog
+npm install @radix-ui/react-radio-group

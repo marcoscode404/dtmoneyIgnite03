@@ -30,13 +30,13 @@ export function NewTransactionModal() {
           {/* container */}
           <TransactionType>
             {/* botao de entrada */}
-            <TransactionTypeButton variant="income">
+            <TransactionTypeButton variant="income" value="income">
               <ArrowCircleUp size={24} />
               Entrada
             </TransactionTypeButton>
 
             {/* botao de saida */}
-            <TransactionTypeButton variant="outcome">
+            <TransactionTypeButton variant="outcome" value="outcome">
               <ArrowCircleDown size={24} />
               Saída
             </TransactionTypeButton>
