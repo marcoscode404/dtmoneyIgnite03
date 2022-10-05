@@ -9,9 +9,20 @@ npm vite@lasted
 - npm i @types/styled-components -D
 
 <!-- biblioteca de icones  -->
-npm i phosphor-react
+- npm i phosphor-react
 
 <!-- biblioteca de interface Radix UI -->
 https://www.radix-ui.com/
-npm install @radix-ui/react-dialog
-npm install @radix-ui/react-radio-group
+- npm install @radix-ui/react-dialog
+- npm install @radix-ui/react-radio-group
+
+<!-- json server -->
+## servidor para simular dados vindo do backend
+## util para o desenvolvimento da interface
+- npm i json-server -D
+* npx json-server server.json
+
+## roda em porta diferente 
+lsof -i :3333
+##para fechar a porta 
+kill -9 'porta'
