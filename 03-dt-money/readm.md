@@ -26,3 +26,6 @@ https://www.radix-ui.com/
 lsof -i :3333
 ##para fechar a porta 
 kill -9 'porta'
+
+## roda o servido na porta 3333 e monitore as alterações dos dados com um delay de 500ml segundos para ficar mais realista
+ npx json-server server.json -p 3333 -w -d 500
