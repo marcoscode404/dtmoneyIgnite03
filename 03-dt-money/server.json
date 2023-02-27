@@ -7,6 +7,22 @@
             "category": "venda",
             "price": 14000,
             "createdAt": "2023-02-23T17:08:38.120Z"
+        },
+        {
+            "id": 1,
+            "description": "monitor",
+            "type": "outcome",
+            "category": "venda",
+            "price": 500,
+            "createdAt": "2023-02-23T17:08:38.120Z"
+        },
+        {
+            "id": 1,
+            "description": "bola",
+            "type": "outcome",
+            "category": "venda",
+            "price": 1000,
+            "createdAt": "2023-02-16T17:08:38.120Z"
         }
     ]
 }
