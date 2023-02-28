@@ -29,3 +29,7 @@ kill -9 'porta'
 
 ## roda o servido na porta 3333 e monitore as alterações dos dados com um delay de 500ml segundos para ficar mais realista
  npx json-server server.json -p 3333 -w -d 500
+
+## react-hook form e o zod 
+ npm i react-hook-form zood -(validação e esquema do formulario zod)
+ npm i @hookform/resolvers
