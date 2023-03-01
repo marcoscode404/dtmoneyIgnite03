@@ -1,28 +1,52 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "venda",
-            "price": 14000,
-            "createdAt": "2023-02-23T17:08:38.120Z"
-        },
-        {
-            "id": 1,
-            "description": "monitor",
-            "type": "outcome",
-            "category": "venda",
-            "price": 500,
-            "createdAt": "2023-02-23T17:08:38.120Z"
-        },
-        {
-            "id": 1,
-            "description": "bola",
-            "type": "outcome",
-            "category": "venda",
-            "price": 1000,
-            "createdAt": "2023-02-16T17:08:38.120Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-02-23T17:08:38.120Z"
+    },
+    {
+      "id": 1,
+      "description": "monitor",
+      "type": "outcome",
+      "category": "venda",
+      "price": 500,
+      "createdAt": "2023-02-23T17:08:38.120Z"
+    },
+    {
+      "id": 1,
+      "description": "bola",
+      "type": "outcome",
+      "category": "venda",
+      "price": 1000,
+      "createdAt": "2023-02-16T17:08:38.120Z"
+    },
+    {
+      "description": "aplicativo",
+      "price": 1000,
+      "category": "Entrada",
+      "type": "income",
+      "createdAt": "2023-03-01T19:49:26.376Z",
+      "id": 2
+    },
+    {
+      "description": "video game",
+      "price": 1000,
+      "category": "game",
+      "type": "income",
+      "createdAt": "2023-03-01T19:53:32.837Z",
+      "id": 3
+    },
+    {
+      "description": "dodute de morango",
+      "price": 5,
+      "category": "sobremesa",
+      "type": "outcome",
+      "createdAt": "2023-03-01T20:14:58.811Z",
+      "id": 4
+    }
+  ]
 }
