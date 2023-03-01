@@ -33,3 +33,6 @@ kill -9 'porta'
 ## react-hook form e o zod 
  npm i react-hook-form zood -(validação e esquema do formulario zod)
  npm i @hookform/resolvers
+
+ ## axios api 
+ npm i axios
